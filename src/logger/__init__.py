@@ -42,4 +42,3 @@ def configure_logger():
 
 # Configure the logger
 configure_logger()
-
